@@ -51,5 +51,6 @@ TAGS
 .jenkins
 
 
-#Vagrant
+#Vagrant and ansible
 .vagrant/*
+*.retry
